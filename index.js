@@ -32,4 +32,4 @@ console.log(greet("World"));
 console.log("Sum of 5 and 3:", add(5, 3));
 console.log("Difference between 10 and 7:", subtract(10, 7));
 console.log("Product of 4 and 6:", multiply(4, 6));
-console.log("Division of 20 by 4:", divide(20, 4));
+console.log("Division of 20 by 4:", divide(20, 4))
