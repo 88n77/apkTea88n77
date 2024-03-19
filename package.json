@@ -4,21 +4,21 @@
     "description": "app testnet n8",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "https://github.com/88n77/apkTea88n77.git"
+        "type": "git",
+        "url": "https://github.com/88n77/apkTea88n77.git"
     },
     "dependencies": {
-      "tea-demonstration": "1.0.0",
-      "minti_fulkerson": "0.1.4"
+        "bimbalka": "^1.0.0",
+        "minti_fulkerson": "0.1.4",
+        "tea-demonstration": "1.0.0"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/88n77/apkTea88n77/issues"
+        "url": "https://github.com/88n77/apkTea88n77/issues"
     },
     "homepage": "https://github.com/88n77/apkTea88n77#readme"
-  }
-  
+}
